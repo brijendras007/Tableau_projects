@@ -70,7 +70,7 @@ Here's a summary of the exercises and methods explored:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/yourusername/your-repository.git)
 # Tableau Exercises Repository
 
 Welcome to the Tableau Exercises Repository! This project contains various exercises designed to help you master Tableau visualizations and dashboards.
